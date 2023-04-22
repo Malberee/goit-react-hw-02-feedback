@@ -20,5 +20,3 @@ export const FeedbackButton = styled.button`
 		outline: none;
 	}
 `
-
-// export default { FeedbackList, FeedbackButton }
